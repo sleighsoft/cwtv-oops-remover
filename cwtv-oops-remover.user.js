@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Kills the Oops
-// @author       You
+// @author       sleighsoft
 // @match        http://*/*
 // @grant        none
 // @include     http://*cwtv.com/*
