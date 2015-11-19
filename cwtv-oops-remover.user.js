@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         CWTV Add Warning Remover
+// @name         CWTV Oops Remover
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Kills the Oops
